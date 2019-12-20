@@ -1,0 +1,14 @@
+Source,Domain,RSS,Full Name,Short Name,Last Link,Image
+CNN,Top Stories,http://rss.cnn.com/rss/cnn_topstories.rss,CNN - Top Stories,CNN_TS,x,image
+CNN,World,http://rss.cnn.com/rss/cnn_world.rss,CNN - World,CNN_W,x,image
+CNN,Business,http://rss.cnn.com/rss/cnn_us.rss,CNN - Business,CNN_BS,x,image
+CNN,Technology,http://rss.cnn.com/rss/cnn_tech.rss,CNN - Technology,CNN_TE,x,image
+CNN,Health,http://rss.cnn.com/rss/cnn_health.rss,CNN - Health,CNN_HL,x,image
+CNN,Entertainment,http://rss.cnn.com/rss/cnn_showbiz.rss,CNN - Entertainment,CNN_EN,x,image
+New York Times,Top Stories,https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml,NYT - Top Stories,NYT_TS,x,image
+New York Times,World,https://rss.nytimes.com/services/xml/rss/nyt/World.xml,NYT - World,NYT_W,x,image
+New York Times,Business,https://rss.nytimes.com/services/xml/rss/nyt/Business.xml,NYT - Business,NYT_BS,x,image
+New York Times,Technology,https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml,NYT - Technology,NYT_TE,x,image
+New York Times,Sports,https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml,NYT - Sports,NYT_SP,x,image
+New York Times,Health,https://www.nytimes.com/services/xml/rss/nyt/Health.xml,NYT - Health,NYT_HL,x,image
+New York Times,Science,https://rss.nytimes.com/services/xml/rss/nyt/Science.xml,NYT - Science,NYT_SC,x,image
