@@ -233,10 +233,10 @@ def pullNewStories(feed, feed_url, last_link, domain, source_s, fullname_s, sour
     
 
 #Parameters
-subscription_key = "a76e8650a3964a23acbfd0c77e0d9f3c"
-container = 'media'
-sa_name = 'stogaccytc001'
-sa_key = 'cCTLKAxKQ0SOP6waWVngZaBD920Yr7LzrVyciwzbdNCGm70J/QYbQXvLF7m7KDGXQLyO8TK/pXdNsyT6fNP/eQ=='
+subscription_key = ""
+container = ''
+sa_name = ''
+sa_key = ''
 
 #ARRAYS
 current_path = os.path.join(os.getcwd(), "all_sources")
